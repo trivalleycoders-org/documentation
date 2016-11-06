@@ -23,6 +23,8 @@
 | ------------------ | ---------- | -------- |
 | Project initiation | 28-Oct-16  |          |
 | Project Scope defined | 28-Oct-16  |          |
+| Technology Map | 28-Oct-16  |          |
+| Learning Phase | 28-Oct-16  |          |
 | UI Design | 28-Oct-16  |          |
 | Technology Stack decided | 28-Oct-16  |          |
 | Collaboration Tools decided | 28-Oct-16  |          |
