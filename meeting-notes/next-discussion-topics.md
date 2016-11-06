@@ -14,10 +14,10 @@ Project management says you can change scope, resources and/or time. Which do we
 1. Add 2 people. Maybe one with low experience but available time and enthusiasm and another more senior who is willing to dig into some of the tough spots.
 2. I think we loosely agreed we want a 3 to 4 month time line. Should we make it longer.
 3. Should we reduce scope?
-    - Build a more traditional web app?
-    - Use SQL (we know it already) instead of MongoDB (we don't know it)?
-    - Take Node.js out
-    - Alternative, build something very small that employs all the needed technologies but doesn't really do much. This way we get to try each technology and see how hard it is before we commit to something more that might never get finished?
+    1. Build a more traditional web app?
+    2. Use SQL (we know it already) instead of MongoDB (we don't know it)?
+    3. Take Node.js out
+    4. Alternative, build something very small that employs all the needed technologies but doesn't really do much. This way we get to try each technology and see how hard it is before we commit to something more that might never get finished?
 
 ## Technology projects are a can of worms
 - Should we cut back our scope?
