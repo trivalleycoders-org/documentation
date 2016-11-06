@@ -20,6 +20,7 @@
 
 ### Milestones
 | Phase              | Start Date | End Date |
+| ------------------ | ---------- | -------- |
 | Project initiation | 28-Oct-16  |          |
 | Project Scope defined | 28-Oct-16  |          |
 | UI Design | 28-Oct-16  |          |
