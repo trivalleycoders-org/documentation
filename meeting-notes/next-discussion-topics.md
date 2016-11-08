@@ -4,10 +4,7 @@
 - Karl and Maddie are sharing React & Node.js
 - We all need to learn React which involves a different way of doing CSS. It doesn't seem too hard to learn but is another new thing.
 - Node.js includes a templating engine that needs to be learned as well
-
-- To address the scope problem should we add 1 or 2 people to the team.
-- 1. Reduce the scope
-- 2.
+- We have not addressed data access yet.
 
 # Solving the scope problem
 Project management says you can change scope, resources and/or time. Which do we want to do?
