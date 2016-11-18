@@ -13,3 +13,5 @@
 - Constructors are a feature of ES6 classes. Constructor methods are called once per instance of a component.
 - First statement in a construction is super(props) which passes the props within the inheritance tree.
 - Use constructor to bind methods. This is better for performance as it is bound once and also when using  shouldComponentUpdate() method for shallow comparison in the child components.
+- Use constructor to declare propTypes and set defaultProps.
+- Setting default state can be done within the constructor.
