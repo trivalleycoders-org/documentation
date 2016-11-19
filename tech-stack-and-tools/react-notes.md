@@ -15,3 +15,8 @@
 - Use constructor to bind methods. This is better for performance as it is bound once and also when using  shouldComponentUpdate() method for shallow comparison in the child components.
 - Use constructor to declare propTypes and set defaultProps.
 - Setting default state can be done within the constructor.
+
+## Event handlers
+- Always bind event handler methods within the constructor. This is more performant.
+- Define event handler methods at highest level owner component in a component hierarchy.
+- Define event handlers in components where you define state.
